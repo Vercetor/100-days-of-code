@@ -23,16 +23,16 @@ with HTML and CSS i can add multiple classes, each overriding the last. I had to
 
 ### Day 3: May 4th, Thursday
 
-**FCC Progress**: 
+**FCC Progress**: I was unable to upload my work yesterday due to one of my kids needing to go to the hospital. I got stuck with the arrays for awhile. I finally but slowly progressed through it after class
 
-**FCC questions and frustrations** :
+**FCC questions and frustrations** : arrays bother me in JS. I think I prefer C++ arrays.
 
 
 ### Day 4: May 5th, Friday
 
-**FCC Progress**: 
+**FCC Progress**: Today I was able to work through building JS objects. This seem almost over complicated? Maybe it was my bias torwards C++.
 
-**FCC questions and frustrations** : 
+**FCC questions and frustrations** :  I am still having trouble accessing objects variables. I will try again tomorrow to thoroughly complete it all.
 
 
 ### Day 5: May 6th, Saturday
